@@ -10,8 +10,11 @@ I'm actively learning the skills required for a Software Engineer role such as:
 - Build practical side projects to apply what I learn
 
 # ⚡ Technical Skills
-- **Languages:** Java, Python, C#, C++, Assembly,
-- **Tools:** Git
+- **Languages:** Java, Python, C#, C++, Assembly, R
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, ReactJs, PugJs
+- **Backend:** NodeJs, PHP
+- **Databases:** MySQL, Oracle, MongoDB, AWS DynamoDB
+- **Tools:** Git, VS Code, npm
 
 # 🔭 Learning Goals
 - Understand microservices and backend service development
