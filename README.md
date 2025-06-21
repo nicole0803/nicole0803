@@ -14,7 +14,7 @@ I'm actively learning the skills required for a Software Engineer role such as:
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, ReactJs, PugJs
 - **Backend:** NodeJs, PHP
 - **Databases:** MySQL, Oracle, MongoDB, AWS DynamoDB
-- **Tools:** Git, VS Code, npm
+- **Tools:** Git, VS Code, npm, pip
 
 ### 🔭 Learning Goals
 - Understand microservices and backend service development
